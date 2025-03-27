@@ -1,0 +1,50 @@
+[
+  {
+    "username": "Harsh",
+    "amount": 34.5,
+    "category": "Food & Dining",
+    "date": "2025-03-27",
+    "description": "",
+    "id": "74923"
+  },
+  {
+    "username": "Harsh",
+    "amount": 34.5,
+    "category": "Food & Dining",
+    "date": "2025-03-27",
+    "description": "",
+    "id": "99955"
+  },
+  {
+    "username": "Harsh",
+    "amount": 100.0,
+    "category": "Rent",
+    "date": "2025-03-27",
+    "description": "",
+    "id": "32799"
+  },
+  {
+    "username": "Harsh",
+    "amount": 200.0,
+    "category": "Shopping",
+    "date": "2025-03-27",
+    "description": "shopping with friends",
+    "id": "88648"
+  },
+  {
+    "username": "Harsh Raj",
+    "amount": 50.0,
+    "category": "Food & Dining",
+    "date": "2025-03-27",
+    "description": "",
+    "id": "77816"
+  },
+  {
+    "username": "Harsh Raj",
+    "amount": 100.0,
+    "category": "Rent",
+    "date": "2025-03-27",
+    "description": "",
+    "id": "32312"
+  }
+]
